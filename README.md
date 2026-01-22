@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @tanya285 
 - 👀 I’m interested in building projects
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on App Development 
 - 📫 How to reach me? On Linkedin
-- 😄 Pronouns: She/her
+
 
 
 <!---
